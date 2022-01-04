@@ -15,6 +15,7 @@ font-size: 50px;
 
  section{ 
      display: flex;
+     margin-bottom: 70px;
  }
 
  .half{
@@ -42,3 +43,10 @@ p{font-family: 'Poppins', sans-serif;}
 background-image:url(images/top-banner.png) ;
 background-repeat: no-repeat;
  }
+
+
+
+ .dreambg{background-image: url(images/dream-bg.png);
+     
+ }
+
